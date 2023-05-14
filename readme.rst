@@ -27,7 +27,8 @@ To install, follow below steps:
 2. Move project into the your local server directory  e.g, wamp/www/
 3. open command and type "npm install", to install dependency of Node server
 4. after that type "node server.js", to start the node server
-5. now, open http://localhost/live-notification
+5. Import Database (rank_data.sql)
+6. now, open http://localhost/live-notification
 
 * Using "Admin" user, you can only show the rank data
 * Using "Manager" user, you can edit data
